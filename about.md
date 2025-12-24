@@ -1,9 +1,11 @@
 # XdBot Blocker
 
-Bad JDaddy why are you <cr>Cheating</c> bad little boy
+You little <cr>Cheater</c>! It's okay, SpaceUK, we all have our ups and downs.
 
-## <cr>Settings</c>
-### Disable If <cr>Cheating</c>
-- If you are <cr>Cheating</c> (you have XdBot on) it will be disabled
+This is a **Joke** mod designed to catch you in the act. It displays a popup calling you out whenever it detects botting, or it can take action based on your settings.
 
-Thanks baby for using
+## Settings
+### Disable If Cheating
+- **Toggle:** Automatically disables the mod functionality when you get called out.
+
+Thanks for downloading!
